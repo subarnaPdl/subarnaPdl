@@ -27,7 +27,7 @@
 hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px">
 </h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=%2336BCF7&width=1020&lines=I'm+a+Flutter+App+Developer+from+Nepal+📱;Studying+Bsc.CSIT+at+Patan+Multiple+Campus+📖✍️;I've+over+1+years+of+flutter+experience+👦)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=%2336BCF7&width=1020&lines=I'm+a+Flutter+App+Developer+from+Nepal+📱🇳🇵+;Studying+Bsc.CSIT+at+Patan+Multiple+Campus+📖✍️;I've+over+1+years+of+flutter+experience+👦)](https://git.io/typing-svg)
 
 
 ### 👍️ My Likings:

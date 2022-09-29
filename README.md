@@ -15,13 +15,13 @@
 </div>
 
 <div id="view_count" align="center">
-<img src="https://komarev.com/ghpvc/?username=subarnapoudel&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=subarnaPdl&style=flat-square&color=blue" alt=""/>
 </div>
 
 <br>
 
 <!-- Banner -->
-<img src = "https://raw.githubusercontent.com/subarnapoudel/subarnapoudel/main/cover%20image.png">
+<img src = "https://raw.githubusercontent.com/subarnaPdl/subarnaPdl/main/cover%20image.png">
 
 <h1>
 hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px">
@@ -50,6 +50,6 @@ hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" 
 
 
 ### 🔥 My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=subarnapoudel&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=subarnaPdl&theme=dark&background=000000)](https://git.io/streak-stats)
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=subarnapoudel&hide=Jupyter%20Notebook&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=subarnaPdl&hide=Jupyter%20Notebook&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)

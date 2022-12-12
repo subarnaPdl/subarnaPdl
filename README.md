@@ -1,10 +1,9 @@
 <!-- Banner -->
 <img src = "https://raw.githubusercontent.com/subarnaPdl/subarnaPdl/main/cover%20image.png">
-<br>
 
 ## hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I'm+a+Flutter+App+Developer+from+Nepal+📱🇳🇵+;Studying+Bsc.CSIT+at+Patan+Multiple+Campus+📖✍️;I've+over+1+years+of+flutter+experience+👦)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&width=500&lines=I'm+a+Flutter+App+Developer+from+Nepal+📱🇳🇵+;Studying+Bsc.CSIT+at+Patan+Multiple+Campus+📖✍️;I've+over+2+years+of+flutter+experience+👦)](https://git.io/typing-svg)
 
 
 ### 👍️ My Likings:
@@ -36,14 +35,13 @@
   <a href="https://www.linkedin.com/in/subarnapdl/">
     <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="40" height="40"/>
   </a>
+  &nbsp;
   <a href="https://twitter.com/subarnaPdl/">
     <img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" title="Twitter" alt="Twitter" width="40" height="40"/>
   </a>
+  &nbsp;
     <a href="https://www.facebook.com/subarna.poudel.77/">
     <img src="https://github.com/devicons/devicon/blob/master/icons/facebook/facebook-original.svg" title="Facebook" alt="Twitter" width="40" height="40"/>
   </a>
 </div>
 <br>
-<div id="view_count" align="center">
-<img src="https://komarev.com/ghpvc/?username=subarnaPdl&style=flat-square&color=blue" alt=""/>
-</div>

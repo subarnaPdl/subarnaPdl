@@ -28,7 +28,7 @@
 ### 🔥 My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=subarnaPdl&show_icons=true&layout=compact&theme=vision-friendly-dark)](https://git.io/streak-stats)
 <br>
-![](https://github-readme-stats.vercel.app/api?username=subarnaPdl&show_icons=true&layout=compact&theme=vision-friendly-dark)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=subarnaPdl&show_icons=true&layout=compact&theme=vision-friendly-dark&count_private=true&text_bold=false)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=subarnaPdl&hide=Jupyter%20Notebook&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
